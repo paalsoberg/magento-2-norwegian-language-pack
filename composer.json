@@ -1,15 +1,13 @@
 {
   "name": "paalsoberg/magento-2-norwegian-language-pack",
   "description": "Norwegian language package for Magento 2",
-  "homepage": "https://www.thinkcommerce.no/en",
+  "license": [
+    "MIT"
+  ],
   "require": {
      "magento/framework": "^100.0.0"
   },
   "type": "magento2-language",
-  "version": "1.0.0",
-  "license": [
-    "MIT"
-  ],
   "autoload": {
     "files": [
       "registration.php"
